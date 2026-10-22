@@ -1,0 +1,5 @@
+C:/Users/shrut/Downloads/KamakshiQtCalculator (1)/KamakshiQtCalculator/build/CMakeFiles/KamakshiCalculator.dir
+C:/Users/shrut/Downloads/KamakshiQtCalculator (1)/KamakshiQtCalculator/build/CMakeFiles/edit_cache.dir
+C:/Users/shrut/Downloads/KamakshiQtCalculator (1)/KamakshiQtCalculator/build/CMakeFiles/rebuild_cache.dir
+C:/Users/shrut/Downloads/KamakshiQtCalculator (1)/KamakshiQtCalculator/build/CMakeFiles/KamakshiCalculator_autogen_timestamp_deps.dir
+C:/Users/shrut/Downloads/KamakshiQtCalculator (1)/KamakshiQtCalculator/build/CMakeFiles/KamakshiCalculator_autogen.dir
